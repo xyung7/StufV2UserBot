@@ -27,6 +27,3 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 -  [ITZ-ZAID](https://github.com/ITZ-ZAID) : Zaid-UserBot
 -  [Tofikdn](https://github.com/tofikdn) : Tede
 -  [Toni](https://github.com/Toni880) : Prime-UserBot
-
-## 📑 License
-Licensed under [GNU General Public License v3.0](https://github.com/mrismanaziz/PyroMan-Userbot/blob/Man-Userbot/LICENSE) All designs were created by [@mrismanaziz](https://github.com/mrismanaziz)
